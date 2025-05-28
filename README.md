@@ -1,2 +1,2 @@
-# Sales-analysis-using-SQL
-Intro to SQL by Roshan Kumar
+# Sales Analysis using MySQL
+SQL practice questions for better understanding
