@@ -3,6 +3,7 @@ SQL practice questions for better understanding
 
 📊 Sales Analysis using SQL
 
+
 🧭 Objective
 
 The goal of this project is to perform insightful analysis on a sales dataset using SQL queries. This includes identifying key sales patterns, customer behavior, and high-performing products and regions to inform business decisions.
