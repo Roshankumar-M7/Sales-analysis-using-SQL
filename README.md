@@ -4,10 +4,12 @@ SQL practice questions for better understanding
 📊 Sales Analysis using SQL
 
 
-🧭 Objective
+# 🧭 Objective
 
 The goal of this project is to perform insightful analysis on a sales dataset using SQL queries. This includes identifying key sales patterns, customer behavior, and high-performing products and regions to inform business decisions.
-🛠️ Tools Used
+
+
+# 🛠️ Tools Used
 
    - MySQL (or any compatible SQL engine)
 
@@ -15,7 +17,7 @@ The goal of this project is to perform insightful analysis on a sales dataset us
 
    - Dataset stored in a table named company.sales
 
-🧩 Steps Included
+# 🧩 Steps Included
 
 - Load the sales data into the database.
 
@@ -27,7 +29,7 @@ The goal of this project is to perform insightful analysis on a sales dataset us
 
 - Apply ranking functions such as RANK() to evaluate product performance.
 
-📈 Analysis Included
+# 📈 Analysis Included
 
 - Identify high-value orders shipped using 'Economy' mode.
 
@@ -51,7 +53,7 @@ The goal of this project is to perform insightful analysis on a sales dataset us
 
 - Rank products based on total sales.
 
-🔍 Key Insights
+# 🔍 Key Insights
 
 - A subset of customers prefer Economy shipping even for high-value purchases.
 
@@ -63,6 +65,6 @@ The goal of this project is to perform insightful analysis on a sales dataset us
 
 - Top customers and top products can be ranked for targeted marketing.
 
-✅ Conclusion
+# ✅ Conclusion
 
 This SQL-based sales analysis demonstrates how structured queries can efficiently extract, summarize, and interpret business-critical data from a relational database. It sets a foundation for further business intelligence or dashboard development using tools like Power BI or Tableau.
